@@ -1,4 +1,7 @@
 # Live-Chat
+### Demo-Screenshot
+
+![Live Chat](https://raw.githubusercontent.com/druvx13/Live-Chat/refs/heads/main/img/chrome_screenshot_Aug%209%2C%202025%205_49_32%20PM%20GMT%2B05_30.png)
 
 ## Introduction
 This is a single-file PHP application that implements a simple live text chat. The entire application, including the backend (PHP), frontend (HTML, CSS, JS), and database initialization, is contained within `index.php`.
